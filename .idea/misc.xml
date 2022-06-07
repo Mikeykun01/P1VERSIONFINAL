@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Medra/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Medra/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/activity_main2.xml" value="0.2667572463768116" />
+        <entry key="..\:/Users/Medra/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/activity_main3.xml" value="0.25" />
+        <entry key="..\:/Users/Medra/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/activity_main4.xml" value="0.20244565217391305" />
+        <entry key="..\:/Users/Medra/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/activity_sensor.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Medra/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/activity_sqlite.xml" value="0.22291666666666668" />
+        <entry key="..\:/Users/Medra/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/activity_sqlite2.xml" value="0.22291666666666668" />
+        <entry key="..\:/Users/Medra/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/list_items.xml" value="0.2667572463768116" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
